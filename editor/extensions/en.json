@@ -134,6 +134,7 @@
     "imageDetection.setModel": "ender your model key = [KEY]",
     "imageDetection.resetModel": "reset model key",
     "imageDetection.getPrediction": "image label",
+    "imageDetection.detectAtLeast": "detect [LABEL] at least [SECONDS] seconds",
     "imageDetection.setTransparency": "set video transparency to [TRANSPARENCY]",
     "rockPaperScissors.categoryName": "Rock-Paper-Scissors",
     "rockPaperScissors.getPrediction": "prediction of hand",

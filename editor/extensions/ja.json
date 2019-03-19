@@ -134,6 +134,7 @@
     "imageDetection.setModel": "カギを入力 = [KEY]",
     "imageDetection.resetModel": "カギをリセット",
     "imageDetection.getPrediction": "画像の種類",
+    "imageDetection.detectAtLeast": "[LABEL] を [SECONDS] 秒以上みた",
     "imageDetection.setTransparency": "ビデオの透明度を[TRANSPARENCY]にする",
     "rockPaperScissors.categoryName": "じゃんけん",
     "rockPaperScissors.getPrediction": "じゃんけんの手",
