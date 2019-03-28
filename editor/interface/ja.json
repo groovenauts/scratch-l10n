@@ -361,6 +361,8 @@
     "gui.extension.sound_detection.description": "AI/TECHPARK 拡張(音声で操作する).",
     "gui.extension.rock_paper_scissors.name": "じゃんけん",
     "gui.extension.rock_paper_scissors.description": "AI/TECHPARK 拡張(じゃんけんを認識する).",
+    "gui.extension.imagenet.name": "一般画像認識",
+    "gui.extension.imagenet.description": "AI/TECHPARK 拡張(カメラの画像を認識する).",
     "gui.libraryTags.all": "すべて",
     "gui.libraryTags.animals": "動物",
     "gui.libraryTags.dance": "ダンス",

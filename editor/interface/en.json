@@ -361,6 +361,8 @@
     "gui.extension.sound_detection.description": "AI/TECHPARK extension (Sound Detection).",
     "gui.extension.rock_paper_scissors.name": "Rock-Paper-Scissors",
     "gui.extension.rock_paper_scissors.description": "AI/TECHPARK extension (Rock-Paper-Scissors).",
+    "gui.extension.imagenet.name": "Image Detection (ImageNet)",
+    "gui.extension.imagenet.description": "AI/TECHPARK extension (ImageNet).",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",
