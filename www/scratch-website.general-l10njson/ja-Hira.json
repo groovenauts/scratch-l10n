@@ -241,5 +241,10 @@
     "comments.status.suspended": "ていしされました",
     "comments.status.acctdel": "アカウントがさくじょされました",
     "comments.status.deleted": "さくじょされました",
-    "comments.status.reported": "ほうこくされました"
+    "comments.status.reported": "ほうこくされました",
+    "social.embedLabel": "うめこみコード",
+    "social.copyEmbedLinkText": "うめこみコードをコピーする",
+    "social.linkLabel": "リンク",
+    "social.copyLinkLinkText": "リンクをコピーする",
+    "social.embedCopiedResultText": "コピーしました"
 }

@@ -241,5 +241,10 @@
     "comments.status.suspended": "Felfüggesztve",
     "comments.status.acctdel": "Fiók törölve",
     "comments.status.deleted": "Törölve",
-    "comments.status.reported": "Jelentve"
+    "comments.status.reported": "Jelentve",
+    "social.embedLabel": "Beágyazás",
+    "social.copyEmbedLinkText": "Beágyazás másolása",
+    "social.linkLabel": "Link",
+    "social.copyLinkLinkText": "Link másolása",
+    "social.embedCopiedResultText": "Kimásolva"
 }

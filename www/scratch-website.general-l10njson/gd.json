@@ -241,5 +241,10 @@
     "comments.status.suspended": "Chaidh a chur à rèim",
     "comments.status.acctdel": "Chaidh an cunntas a sguabadh às",
     "comments.status.deleted": "Chaidh a sguabadh às",
-    "comments.status.reported": "Chaidh gearan a dhèanamh"
+    "comments.status.reported": "Chaidh gearan a dhèanamh",
+    "social.embedLabel": "Leabaich",
+    "social.copyEmbedLinkText": "Dèan lethbhreac dhen leabachadh",
+    "social.linkLabel": "Ceangail",
+    "social.copyLinkLinkText": "Dèan lethbhreac dhen cheangal",
+    "social.embedCopiedResultText": "Chaidh lethbhreac dheth a dhèanamh"
 }

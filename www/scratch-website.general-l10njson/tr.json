@@ -52,7 +52,7 @@
     "general.monthOctober": "Ekim",
     "general.monthNovember": "Kasım",
     "general.monthDecember": "Aralık",
-    "general.myClass": "Benim Sınıflarım",
+    "general.myClass": "Sınıflarım",
     "general.myClasses": "Benim Sınıflarım",
     "general.myStuff": "Kendiminkiler",
     "general.noDeletionTitle": "Hesabınız Silinmeyecek",
@@ -241,5 +241,10 @@
     "comments.status.suspended": "askıya alındı",
     "comments.status.acctdel": "Hesap silindi",
     "comments.status.deleted": "Silindi",
-    "comments.status.reported": "Şikayet edildi"
+    "comments.status.reported": "Şikayet edildi",
+    "social.embedLabel": "Göm",
+    "social.copyEmbedLinkText": "Katıştırılmışı kopyala",
+    "social.linkLabel": "Link",
+    "social.copyLinkLinkText": "Linki kopyala.",
+    "social.embedCopiedResultText": "Kopyalandı"
 }

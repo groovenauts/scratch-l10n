@@ -241,5 +241,10 @@
     "comments.status.suspended": "Sospeso",
     "comments.status.acctdel": "Account cancellato",
     "comments.status.deleted": "Cancellato",
-    "comments.status.reported": "Segnalato"
+    "comments.status.reported": "Segnalato",
+    "social.embedLabel": "Includi",
+    "social.copyEmbedLinkText": "Copia codice",
+    "social.linkLabel": "Collegamento",
+    "social.copyLinkLinkText": "Copia collegamento",
+    "social.embedCopiedResultText": "Copiato"
 }

@@ -241,5 +241,10 @@
     "comments.status.suspended": "Avstängd",
     "comments.status.acctdel": "Kontot borttaget",
     "comments.status.deleted": "Borttaget",
-    "comments.status.reported": "Rapporterat"
+    "comments.status.reported": "Rapporterat",
+    "social.embedLabel": "Bädda in",
+    "social.copyEmbedLinkText": "Kopiera bädda in",
+    "social.linkLabel": "Länk",
+    "social.copyLinkLinkText": "Kopiera länk",
+    "social.embedCopiedResultText": "Kopierad"
 }

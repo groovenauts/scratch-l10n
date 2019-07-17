@@ -241,5 +241,10 @@
     "comments.status.suspended": "Suspenso",
     "comments.status.acctdel": "Conta removida",
     "comments.status.deleted": "Removido",
-    "comments.status.reported": "Reportado"
+    "comments.status.reported": "Reportado",
+    "social.embedLabel": "Incorporar",
+    "social.copyEmbedLinkText": "Copiar código para incorporar",
+    "social.linkLabel": "Ligação",
+    "social.copyLinkLinkText": "Copiar ligação",
+    "social.embedCopiedResultText": "Copiado"
 }

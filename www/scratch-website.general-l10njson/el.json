@@ -241,5 +241,10 @@
     "comments.status.suspended": "Σε αναστολή",
     "comments.status.acctdel": "Ο λογαριασμός διαγράφηκε",
     "comments.status.deleted": "Διαγράφηκε",
-    "comments.status.reported": "Αναφέρθηκε"
+    "comments.status.reported": "Αναφέρθηκε",
+    "social.embedLabel": "Ενσωμάτωση",
+    "social.copyEmbedLinkText": "Αντιγραφή ενσωμάτωσης",
+    "social.linkLabel": "Σύνδεσμος",
+    "social.copyLinkLinkText": "Αντιγραφή συνδέσμου",
+    "social.embedCopiedResultText": "Αντιγραμμένος"
 }

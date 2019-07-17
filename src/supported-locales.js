@@ -9,6 +9,7 @@ const locales = {
     'am': {name: 'አማርኛ'},
     'az': {name: 'Azeri'},
     'id': {name: 'Bahasa Indonesia'},
+    'be': {name: 'Беларуская'},
     'bg': {name: 'Български'},
     'ca': {name: 'Català'},
     'cs': {name: 'Česky'},
@@ -42,10 +43,12 @@ const locales = {
     'ja-Hira': {name: 'にほんご'},
     'nb': {name: 'Norsk Bokmål'},
     'nn': {name: 'Norsk Nynorsk'},
+    'uz': {name: 'Oʻzbekcha'},
     'th': {name: 'ไทย'},
     'pl': {name: 'Polski'},
     'pt': {name: 'Português'},
     'pt-br': {name: 'Português Brasileiro'},
+    'rap': {name: 'Rapa Nui'},
     'ro': {name: 'Română'},
     'ru': {name: 'Русский'},
     'sr': {name: 'Српски'},
@@ -65,14 +68,11 @@ const customLocales = {
         locale: 'ab',
         parentLocale: 'az'
     },
-    'es-419': {
-        locale: 'es-419',
+    'rap': {
+        locale: 'rap',
         parentLocale: 'es'
     },
-    'mi': {
-        locale: 'mi',
-        parentLocale: 'en'
-    },
+    // TODO: replace zh-cn, zh-tw with zh-Hans and zh-Hant
     'zh-cn': {
         locale: 'zh-cn',
         parentLocale: 'zh'

@@ -79,7 +79,7 @@
     "general.statistics": "Statistik",
     "general.studios": "Studio",
     "general.support": "Dukungan",
-    "general.ideas": "Ideas",
+    "general.ideas": "Ide",
     "general.tipsWindow": "Jendela Tips",
     "general.termsOfUse": "Kebijakan Pengguna",
     "general.unhandledError": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team.",
@@ -241,5 +241,10 @@
     "comments.status.suspended": "Suspended",
     "comments.status.acctdel": "Account deleted",
     "comments.status.deleted": "Deleted",
-    "comments.status.reported": "Reported"
+    "comments.status.reported": "Reported",
+    "social.embedLabel": "Lekatkan",
+    "social.copyEmbedLinkText": "Copy embed",
+    "social.linkLabel": "Link",
+    "social.copyLinkLinkText": "Copy link",
+    "social.embedCopiedResultText": "Copied"
 }
